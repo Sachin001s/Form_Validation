@@ -1,6 +1,9 @@
-# Form Validation Project
+<img src="Form.png" width="200px" height="200px" alt="Form-Image" align="right">
 
-This is a simple project that demonstrates form validation using JavaScript, HTML, and Bootstrap. The goal of this project is to validate user input in a form and provide feedback to the user in real-time.
+# Form Validation Project  &nbsp; ![Static Badge](https://img.shields.io/badge/FORM_VALIDATION-FV-%23F0AD4E)
+
+> This is a simple project that demonstrates form validation using JavaScript, HTML, and Bootstrap.
+The goal of this project is to validate user input in a form and provide feedback to the user in real-time.
 
 
 ## Technologies Used
@@ -26,7 +29,6 @@ The form validation is implemented using JavaScript. The following validations a
 - Confirm Password: The confirm password field must match the password field.
 - Contact Number: This field allows users to enter their contact number. It is validated to ensure it contains only numeric characters.
 - Gender: This field allows users to select their gender from a dropdown menu. It is validated to ensure that a gender option is selected.
-## Screenshot
 ![Screenshot 2023-07-11 151736](https://github.com/Sachin001s/Form_Validation/assets/128379424/5a651c65-1776-4df1-b331-4889d3d1c381)
 
 If any of the fields fail validation, an error message is displayed next to the respective field. If all fields pass validation, a success message is displayed.
